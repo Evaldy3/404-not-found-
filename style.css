@@ -150,7 +150,7 @@ button p
    /* section 1 */
     .image
    {
-    position: absolute;
+    position: relative;
     margin: auto;
    
     background-image: url(/img/Scarecrow2.png);
