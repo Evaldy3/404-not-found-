@@ -148,10 +148,14 @@ button p
    /* Header */
 
    /* section 1 */
+    .content-1
+    {
+        width: 50%;
+        margin: auto;
+    }
     .image
    {
     position:absolute;
-    margin: auto;
     top: 11.49%;
     bottom: 63.44%;
     background-image: url(/img/Scarecrow2.png);
