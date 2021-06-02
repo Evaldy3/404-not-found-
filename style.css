@@ -152,6 +152,7 @@ button p
     {
         width: 50%;
         margin: auto;
+        background: #333333;
     }
     .image
    {
@@ -161,7 +162,6 @@ button p
     background-image: url(/img/Scarecrow2.png);
     width: 287px;
     height: 238px;
-    background: #333333;
    }
 
    .typo
