@@ -33,7 +33,8 @@
     bottom: 34.03%;
     background-image: url(/img/Scarecrow.png);
     background-repeat: no-repeat;
-    width:auto;
+    width: 539px;
+    height: 447px;
 }
 
 
@@ -155,6 +156,8 @@ button p
     top: 11.49%;
     bottom: 63.44%;
     background-image: url(/img/Scarecrow2.png);
+    width: 287px;
+    height: 238px;
    }
 
    .typo
