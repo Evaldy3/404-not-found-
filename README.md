@@ -59,3 +59,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - GitHub [@Evaldy3](https://github.com/Evaldy3)
 - Twitter [@vaval03](https://twitter.com/vaval03)
+
