@@ -57,5 +57,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Evaldy3](https://{github.com/your-usermame})
-- Twitter [@vaval03](https://{twitter.com/your-username})
+- GitHub [@Evaldy3](https://github.com/Evaldy3)
+- Twitter [@vaval03](https://twitter.com/vaval03)
